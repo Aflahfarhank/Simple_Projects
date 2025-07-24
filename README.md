@@ -1,1 +1,1 @@
-# InternsoftCodes
+# Simple Projects
